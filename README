@@ -1,0 +1,16 @@
+KinectMultiTouch 
+
+See it in action here: 
+http://www.youtube.com/watch?v=YwEeFQw8QlI 
+
+Tools used: 
+
+- openFrameworks with Code::Blocks
+- Armadallio, linear algebra library
+- OpenNI, Kinect driver
+
+Reference: 
+- keyboard-anywhere: 
+    - https://github.com/petermoz/keyboard-anywhere
+- Kinect Windows 7 Mouse Control V2 Demo 
+    - http://www.youtube.com/watch?v=JlwWp8ItCVA
